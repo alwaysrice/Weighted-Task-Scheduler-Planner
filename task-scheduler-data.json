@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "name": "Water the garden",
+        "deadline": "2026-05-04",
+        "importance": 2,
+        "effort": 1,
+        "score": 10.0
+    },
+    {
+        "id": 3,
+        "name": "DSA presentation",
+        "deadline": "2026-05-06",
+        "importance": 10,
+        "effort": 2,
+        "score": 29.67
+    }
+]
